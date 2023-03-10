@@ -1,0 +1,1209 @@
+{
+  "response": {
+    "numFound": 4905,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+      {
+        "id": "24780561-0d83-4cad-b03f-162111728ee9",
+        "job_title": ["Receptionera Pensiunea Junior"],
+        "job_link": [
+          "https://www.olx.ro/oferta/loc-de-munca/receptionera-pensiunea-junior-IDgRWEd.html"
+        ],
+        "company": ["Pensiunea Junior"],
+        "company_str": "Pensiunea Junior",
+        "country": ["România"],
+        "city": ["Cluj-Napoca"],
+        "_version_": 1755913490813419520
+      },
+      {
+        "job_title": ["Specialist SEO Senior Level"],
+        "job_link": [
+          "https://www.netlogiq.ro/jobs/specialist-seo-senior-level/"
+        ],
+        "company": ["Netlogiq"],
+        "company_str": "Netlogiq",
+        "country": ["România"],
+        "city": ["Cluj-Napoca"],
+        "id": "bc9abe24-ea78-4928-af8e-947947a262ad",
+        "_version_": 1756174915986259968
+      },
+      {
+        "job_title": ["Specialist SEO – Mid Level (on-site sau remote)"],
+        "job_link": [
+          "https://www.netlogiq.ro/jobs/specialist-seo-mid-level-on-site-sau-remote"
+        ],
+        "company": ["Netlogiq"],
+        "company_str": "Netlogiq",
+        "country": ["România"],
+        "city": ["Cluj-Napoca"],
+        "id": "5cea86ad-667c-465e-93be-f113fc8b3f83",
+        "_version_": 1756174915988357120
+      },
+      {
+        "id": "d21b0327-52e2-454c-8845-e85ad7690a56",
+        "job_title": ["Vânzător Tîrgoviște Arh. Gh. Pintea 1A (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-tirgoviste-arh.-gh.-pintea-1a-f-m-290205"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Târgoviște"],
+        "_version_": 1759882297246482432
+      },
+      {
+        "id": "8c2a2361-d502-447e-93a6-9aa598de9d3e",
+        "job_title": ["Vânzător Otopeni (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-otopeni-f-m-290783"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Otopeni"],
+        "_version_": 1759882297247531008
+      },
+      {
+        "id": "f956a89d-1f71-48f0-af7e-03ba0b1200a5",
+        "job_title": ["Vânzător Brasov, Strada Saturn, nr. 35A (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-brasov-strada-saturn-nr.-35a-f-m-290208"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Brașov"],
+        "_version_": 1759882297247531009
+      },
+      {
+        "id": "83b9abe6-219e-4430-9a2b-9a7a4f750ac4",
+        "job_title": ["Manager Magazin Târgoviste (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/manager-magazin-targoviste-f-m-288180"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Târgoviște"],
+        "_version_": 1759882297247531010
+      },
+      {
+        "id": "62f44461-734c-4f73-bbae-e62dd22c9ccf",
+        "job_title": ["Manager Magazin Snagov (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/manager-magazin-snagov-f-m-288019"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Snagov"],
+        "_version_": 1759882297247531011
+      },
+      {
+        "id": "c619cf0a-2175-4752-8fc6-567c04b85c21",
+        "job_title": ["Area Sales Manager Brașov (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/area-sales-manager-brasov-f-m-287789"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Nedelea"],
+        "_version_": 1759882297247531012
+      },
+      {
+        "id": "9f547f0f-78ad-47f6-8951-bb6206d19691",
+        "job_title": ["Area Salea Manager Prahova - Ilfov (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/area-salea-manager-prahova-ilfov-f-m-287788"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Nedelea"],
+        "_version_": 1759882297247531013
+      },
+      {
+        "id": "cdab68a1-ce6e-4282-9e41-7c7cec912c00",
+        "job_title": ["Manager Departament Logistic Lidl Nedelea (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/manager-departament-logistic-lidl-nedelea-f-m-285485"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Nedelea"],
+        "_version_": 1759882297248579584
+      },
+      {
+        "id": "e33821dc-f3f7-46b5-b9e0-3cb88cf6ca8d",
+        "job_title": ["Vânzător Brașov Bd. Griviței 2E (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-brasov-bd.-grivitei-2e-f-m-283264"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Brașov"],
+        "_version_": 1759882297248579585
+      },
+      {
+        "id": "72577c14-1c9e-4413-b4c9-7f814564ca2d",
+        "job_title": ["Vânzător Snagov (f/m)"],
+        "job_link": ["https://cariere.lidl.ro/jobs/vanzator-snagov-f-m-283936"],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Snagov"],
+        "_version_": 1759882297248579586
+      },
+      {
+        "id": "09fdb280-4ace-4aec-84af-6dfcf22f1b68",
+        "job_title": ["Vânzător Constanța Doraly (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-constanta-doraly-f-m-284798"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Constanța"],
+        "_version_": 1759882297248579587
+      },
+      {
+        "id": "a12f5f0f-f167-44b7-910f-bd1b8806a80c",
+        "job_title": ["Operator Date Lidl Nedelea (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/operator-date-lidl-nedelea-f-m-286918"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Nedelea"],
+        "_version_": 1759882297248579588
+      },
+      {
+        "id": "5f997a28-4b3f-4359-9758-55e5e80adccb",
+        "job_title": ["Vânzător Constanța Tomis 3 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-constanta-tomis-3-f-m-287153"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Constanța"],
+        "_version_": 1759882297248579589
+      },
+      {
+        "id": "6e2f86a8-629f-4af5-9ed2-ab0bbb90f5fc",
+        "job_title": ["Vânzător Arad 7 Pădurii (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-arad-7-padurii-f-m-291809"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Arad"],
+        "_version_": 1759882297248579590
+      },
+      {
+        "id": "ea57cd43-092c-4a1d-8354-e027266391b4",
+        "job_title": ["Vânzător București Uverturii (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-uverturii-f-m-287172"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297248579591
+      },
+      {
+        "id": "b76e73d6-40a0-40dd-9d89-0dabc6810409",
+        "job_title": ["Vânzător București Bucureștii Noi (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-bucurestii-noi-f-m-290982"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297248579592
+      },
+      {
+        "id": "3c7c009b-57fc-4b3a-b873-67ee3f83661a",
+        "job_title": ["Vânzător Sibiu Șos.Alba Iulia Nr.47 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-sibiu-sos.alba-iulia-nr.47-f-m-291734"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Sibiu"],
+        "_version_": 1759882297248579593
+      },
+      {
+        "id": "085b996a-e1b0-4fe6-a3d3-6ad32a82c7de",
+        "job_title": ["Vânzător Cluj-Napoca Str.Vaida Voievod Nr.59 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-cluj-napoca-str.vaida-voievod-nr.59-f-m-287865"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Cluj-Napoca"],
+        "_version_": 1759882297249628160
+      },
+      {
+        "id": "40568ce9-4e56-474d-811f-065a34f53045",
+        "job_title": ["Stivuitorist Depozit Chiajna (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/stivuitorist-depozit-chiajna-f-m-291478"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Chiajna"],
+        "_version_": 1759882297249628161
+      },
+      {
+        "id": "20551585-1b91-4316-a504-78fca504b1f0",
+        "job_title": ["Vânzător Urziceni (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-urziceni-f-m-291211"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Urziceni"],
+        "_version_": 1759882297249628162
+      },
+      {
+        "id": "962e8227-3f75-4596-b940-c8052f67434b",
+        "job_title": ["Vânzător București Pallady 1 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-pallady-1-f-m-291195"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297249628163
+      },
+      {
+        "id": "7e649cdb-6589-49a7-a008-21631c2db783",
+        "job_title": ["Senior Tax Consultant (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/senior-tax-consultant-f-m-291295"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297249628164
+      },
+      {
+        "id": "13bc1e78-9a96-42cd-9a52-d242f3e03054",
+        "job_title": ["Vânzător Arad 2 Aurel Vlaicu (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-arad-2-aurel-vlaicu-f-m-291502"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Arad"],
+        "_version_": 1759882297249628165
+      },
+      {
+        "id": "41c8c505-b5e7-4ae1-8c01-c8ecd8efbb50",
+        "job_title": ["Vânzător Deva 3 Calea Zarandului (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-deva-3-calea-zarandului-f-m-290986"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Deva"],
+        "_version_": 1759882297249628166
+      },
+      {
+        "id": "600f429f-7a5a-40f1-b2ff-54048f4f69f3",
+        "job_title": ["Purchasing Analyst with German (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/purchasing-analyst-with-german-f-m-286052"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297249628167
+      },
+      {
+        "id": "722e1916-5b8e-45a8-9278-486ba2976f68",
+        "job_title": ["Vânzător Mediaș Str. I.C Brătianu Nr.10 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-medias-str.-i.c-bratianu-nr.10-f-m-291470"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Mediaș"],
+        "_version_": 1759882297249628168
+      },
+      {
+        "id": "4c423ce5-4d73-43ac-9387-3ed1ce0ac58d",
+        "job_title": ["Vânzător Bârlad Str. Republicii Nr. 3 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-barlad-str.-republicii-nr.-3-f-m-251021"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Barlad"],
+        "_version_": 1759882297249628169
+      },
+      {
+        "id": "1cf7c6b3-06a6-4df8-a3df-88c181b77c69",
+        "job_title": ["Vânzător Vaslui Str. Ștefan cel Mare Nr. 195 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-vaslui-str.-stefan-cel-mare-nr.-195-f-m-291394"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Vaslui"],
+        "_version_": 1759882297249628170
+      },
+      {
+        "id": "651eaed5-5664-4276-9746-000613f7296e",
+        "job_title": ["Vânzător Satu Mare 2 Str. Lalelei (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-satu-mare-2-str.-lalelei-f-m-291196"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Satu Mare"],
+        "_version_": 1759882297250676736
+      },
+      {
+        "id": "785ca401-07cb-4385-b328-f22cc78fd2a1",
+        "job_title": ["Vânzător Bârlad Bd. Republicii Nr. 320 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-barlad-bd.-republicii-nr.-320-f-m-291297"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Barlad"],
+        "_version_": 1759882297250676737
+      },
+      {
+        "id": "9ab529ad-df3f-41fc-899f-49b31eecf31c",
+        "job_title": ["Vânzător Chitila (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-chitila-f-m-289766"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Chitila"],
+        "_version_": 1759882297250676738
+      },
+      {
+        "id": "405f5fea-f768-42be-8721-b8fa7d0e6c16",
+        "job_title": ["Vânzător București Străulești (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-straulesti-f-m-289376"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297250676739
+      },
+      {
+        "id": "c453c9ba-e468-4562-b9d1-502dc2f0b5d9",
+        "job_title": ["Vânzător Bragadiru (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bragadiru-f-m-289181"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Bragadiru"],
+        "_version_": 1759882297250676740
+      },
+      {
+        "id": "ee3543c3-043e-4d16-9bc1-784de3c94b4f",
+        "job_title": ["Vânzător Domnești Part Time (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-domnesti-part-time-f-m-290390"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Domnești"],
+        "_version_": 1759882297250676741
+      },
+      {
+        "id": "87adc528-7366-422a-ba87-3f8c07a53346",
+        "job_title": ["Vânzător Cluj Napoca Str. Colinei Nr.2 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-cluj-napoca-str.-colinei-nr.2-f-m-291212"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Cluj-Napoca"],
+        "_version_": 1759882297250676742
+      },
+      {
+        "id": "d70e552c-c8e0-4d1b-a1c8-c60b299d7f1d",
+        "job_title": ["Vânzător Cluj Napoca Str.Frunzișului Nr.87(f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-cluj-napoca-str.frunzisului-nr.87-f-m-291221"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Cluj-Napoca"],
+        "_version_": 1759882297250676743
+      },
+      {
+        "id": "9ec4c62b-4d8f-4f50-aa9b-a193ed7ad846",
+        "job_title": ["Vânzător Arad 6 Calea Zimandului Part Time (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-arad-6-calea-zimandului-part-time-f-m-291102"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Arad"],
+        "_version_": 1759882297250676744
+      },
+      {
+        "id": "d1c90b78-45e5-45f4-a8a6-6894395a2b1a",
+        "job_title": ["Vânzător Drobeta 4 Str. Mihai Viteazu (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-drobeta-4-str.-mihai-viteazu-f-m-291001"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Drobeta Turnu Severin"],
+        "_version_": 1759882297250676745
+      },
+      {
+        "id": "37c4f560-08a4-48e9-a64b-a6bff78f5dc5",
+        "job_title": [
+          "Asistent Manager Magazin Vaslui Str. Ștefan cel Mare Nr. 195 (f/m)"
+        ],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/asistent-manager-magazin-vaslui-str.-stefan-cel-mare-nr.-195-f-m-290901"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Vaslui"],
+        "_version_": 1759882297251725312
+      },
+      {
+        "id": "11e6610b-293d-4015-b28f-df5b6d56b709",
+        "job_title": ["Vânzător Bacău Str. Abatorului Nr. 5 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bacau-str.-abatorului-nr.-5-f-m-290635"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Bacău"],
+        "_version_": 1759882297251725313
+      },
+      {
+        "id": "308520fa-263b-4fdb-b747-fa01e1623458",
+        "job_title": ["Vânzător Timișoara 6 Str. Simion Bărnuțiu (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-timisoara-6-str.-simion-barnutiu-f-m-290842"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Timișoara"],
+        "_version_": 1759882297251725314
+      },
+      {
+        "id": "58517214-ba46-4354-b8df-bb1011230068",
+        "job_title": ["Vânzător Timișoara 10 Freidorf (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-timisoara-10-freidorf-f-m-290845"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Timișoara"],
+        "_version_": 1759882297251725315
+      },
+      {
+        "id": "db253809-d95f-4cfc-ae71-55864a940e41",
+        "job_title": [
+          "Manager Magazin Târgu Mureș Str. Gheorghe Doja Nr.62 (f/m)"
+        ],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/manager-magazin-targu-mures-str.-gheorghe-doja-nr.62-f-m-290857"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Târgu Mureș"],
+        "_version_": 1759882297251725316
+      },
+      {
+        "id": "02ca407c-4461-4ae0-b6a1-7a0741699ca2",
+        "job_title": ["Adjunct Manager Magazin Târgu Mureș Str. Sinaia (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/adjunct-manager-magazin-targu-mures-str.-sinaia-f-m-290851"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Târgu Mureș"],
+        "_version_": 1759882297251725317
+      },
+      {
+        "id": "77c97e40-2333-48f3-9367-76a6877ea719",
+        "job_title": ["Specialist CSR (f/m)"],
+        "job_link": ["https://cariere.lidl.ro/jobs/specialist-csr-f-m-288554"],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297251725318
+      },
+      {
+        "id": "ce1fc4b0-4609-44f0-bdfd-3d5964589115",
+        "job_title": ["Vânzător Oțelu Roșu (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-otelu-rosu-f-m-290682"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Otelu Rosu"],
+        "_version_": 1759882297251725319
+      },
+      {
+        "id": "d026a64f-99b3-43f0-b612-e487538a7726",
+        "job_title": ["Vânzător București Energeticienilor (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-energeticienilor-f-m-290734"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297251725320
+      },
+      {
+        "id": "987998f2-c2ac-4936-aa0e-616c150bf3a0",
+        "job_title": ["Business Controller-perioada determinata 24 luni(f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/business-controller-perioada-determinata-24-luni-f-m-284004"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297251725321
+      },
+      {
+        "id": "12eda12c-da2f-44e0-bb14-b556c8beaf85",
+        "job_title": ["Vânzător Salonta (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-salonta-f-m-284345"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Salonta"],
+        "_version_": 1759882297251725322
+      },
+      {
+        "id": "8433979b-b512-4afa-94e9-66a80b1115d4",
+        "job_title": ["Vânzător Jimbolia (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-jimbolia-f-m-284697"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Jimbolia"],
+        "_version_": 1759882297251725323
+      },
+      {
+        "id": "01f78bda-9afc-4dec-8d53-e530d5043270",
+        "job_title": ["Vânzător Ghiroda (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-ghiroda-f-m-284054"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Ghiroda"],
+        "_version_": 1759882297251725324
+      },
+      {
+        "id": "0bfd9e98-30bc-4da4-8da7-ea0a1af55d72",
+        "job_title": ["Adjunct Manager Magazin Timișoara 2 Str. Miresei (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/adjunct-manager-magazin-timisoara-2-str.-miresei-f-m-286694"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Timișoara"],
+        "_version_": 1759882297251725325
+      },
+      {
+        "id": "3b321b32-e6ef-4a44-8a64-3703d201d5ae",
+        "job_title": ["Vânzător Arad 4 Calea Radnei (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-arad-4-calea-radnei-f-m-284614"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Arad"],
+        "_version_": 1759882297264308224
+      },
+      {
+        "id": "462eaa31-0bc4-4c12-bcdf-74d7714edf52",
+        "job_title": ["Vânzător Arad 6 Calea Zimandului (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-arad-6-calea-zimandului-f-m-286906"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Arad"],
+        "_version_": 1759882297264308225
+      },
+      {
+        "id": "9e3ec509-6430-4be6-8077-af9513aaecf1",
+        "job_title": ["Vânzător Alba Iulia 3 Moților (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-alba-iulia-3-motilor-f-m-287431"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Alba Iulia"],
+        "_version_": 1759882297264308226
+      },
+      {
+        "id": "fa470294-66a8-4b48-903d-2204482248fc",
+        "job_title": ["Vânzător Alba Iulia 1 Str. Lalelelor (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-alba-iulia-1-str.-lalelelor-f-m-284396"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Alba Iulia"],
+        "_version_": 1759882297264308227
+      },
+      {
+        "id": "899a1f9f-2e99-4f9f-8dd8-0aff85f2f57c",
+        "job_title": ["Vânzător Timișoara 7 Eroilor de la Tisa (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-timisoara-7-eroilor-de-la-tisa-f-m-288861"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Timișoara"],
+        "_version_": 1759882297264308228
+      },
+      {
+        "id": "1bb6280c-b62b-46ed-85c2-52e7b0df9d31",
+        "job_title": ["Referent Facility Mangement"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/referent-facility-mangement-289973"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297264308229
+      },
+      {
+        "id": "e41e5956-a57c-40d8-ab8c-5e3445557779",
+        "job_title": ["Vânzător București Tarcău (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-tarcau-f-m-290529"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Bukarest"],
+        "_version_": 1759882297264308230
+      },
+      {
+        "id": "2d7bd994-5878-4a74-b784-4d5479efc631",
+        "job_title": ["Vânzător Baia Mare Str.Cosmonauților Nr.2 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-baia-mare-str.cosmonautilor-nr.2-f-m-287605"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Baia Mare"],
+        "_version_": 1759882297265356800
+      },
+      {
+        "id": "2ad7b9e1-4e6d-49b8-b7f4-704efb140487",
+        "job_title": [
+          "Manager Departament Logistic Sediu Regional Lugoj (f/m)"
+        ],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/manager-departament-logistic-sediu-regional-lugoj-f-m-286948"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Lugoj"],
+        "_version_": 1759882297265356801
+      },
+      {
+        "id": "40aa461a-bcb0-4779-82b1-3d44a804750b",
+        "job_title": ["Lucrător depozit Pregătire Marfă Lugoj (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/lucrator-depozit-pregatire-marfa-lugoj-f-m-284604"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Lugoj"],
+        "_version_": 1759882297265356802
+      },
+      {
+        "id": "4ac6d1f9-ce9e-4b62-85b0-561a08fa6698",
+        "job_title": ["Vânzător Medgidia (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-medgidia-f-m-287906"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Medgidia"],
+        "_version_": 1759882297265356803
+      },
+      {
+        "id": "4c3ff0e0-1738-4a8f-8d14-4ca1e88498f4",
+        "job_title": ["Vânzător Voluntari 5/ Emil Racoviță (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-voluntari-5-emil-racovita-f-m-288144"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Voluntari"],
+        "_version_": 1759882297265356804
+      },
+      {
+        "id": "f9e6ce96-1386-4827-a19d-055b597e7e46",
+        "job_title": ["Vânzător Moldova Nouă (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-moldova-noua-f-m-290448"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Moldova Noua"],
+        "_version_": 1759882297265356805
+      },
+      {
+        "id": "9cfb2f3a-b5b0-4efa-a61e-aa5afca01994",
+        "job_title": ["Vânzător București Turnu Măgurele (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-turnu-magurele-f-m-287432"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297265356806
+      },
+      {
+        "id": "4865396b-e559-4d86-bee2-ee5ffd56cff2",
+        "job_title": ["Vânzător Timișoara 5 I.I. de la Brad (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-timisoara-5-i.i.-de-la-brad-f-m-290492"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Timișoara"],
+        "_version_": 1759882297265356807
+      },
+      {
+        "id": "6db1b4b6-6d16-44ea-8126-ea1d890c1f81",
+        "job_title": ["Vânzător Brașov Sos. Cristianului nr. 1 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-brasov-sos.-cristianului-nr.-1-f-m-290197"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Brașov"],
+        "_version_": 1759882297265356808
+      },
+      {
+        "id": "54d91870-34ec-476e-9bc3-b6fbf2da11b7",
+        "job_title": ["Vânzător București Calea Rahovei (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-calea-rahovei-f-m-285924"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297265356809
+      },
+      {
+        "id": "9ee2aa8b-908b-48e9-8ded-0c6fc30c83a4",
+        "job_title": ["Vânzător București sector 1 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-sector-1-f-m-285558"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297265356810
+      },
+      {
+        "id": "60a1dcef-6f70-4c68-bdf5-baa06672ef24",
+        "job_title": ["Vânzător București Valea Cascadelor (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-valea-cascadelor-f-m-284381"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297266405376
+      },
+      {
+        "id": "16cf2f45-79b3-4ffc-a8f7-f78c64f156ec",
+        "job_title": ["Vânzător Tunari (f/m)"],
+        "job_link": ["https://cariere.lidl.ro/jobs/vanzator-tunari-f-m-287670"],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Tunari"],
+        "_version_": 1759882297266405377
+      },
+      {
+        "id": "07e3e0c4-286a-4221-a17a-6effc5e68bd8",
+        "job_title": ["Vânzător București Baicului (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-baicului-f-m-287956"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297266405378
+      },
+      {
+        "id": "ddf059ee-032c-4804-9d06-e0433de80e04",
+        "job_title": ["Vânzător București Brățării (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-bratarii-f-m-287462"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297266405379
+      },
+      {
+        "id": "3810fa7f-7dcf-4bd6-86f2-87186714b942",
+        "job_title": ["Vânzător București Șos. Alexandriei (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-sos.-alexandriei-f-m-289631"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Bragadiru"],
+        "_version_": 1759882297266405380
+      },
+      {
+        "id": "83bd50e7-bdce-4864-be5f-458e8c338d56",
+        "job_title": ["Lucrător depozit Comisionare Zona frig (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/lucrator-depozit-comisionare-zona-frig-f-m-290102"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Chiajna"],
+        "_version_": 1759882297266405381
+      },
+      {
+        "id": "8428da8d-dd31-4b50-bb12-f69a924a87c4",
+        "job_title": ["Asistent Manager Magazin Năvodari 2 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/asistent-manager-magazin-navodari-2-f-m-286350"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Năvodari"],
+        "_version_": 1759882297266405382
+      },
+      {
+        "id": "a5773f94-b5c4-4d54-8513-e16de13dbd25",
+        "job_title": ["Lucrător depozit Ieșire Marfă/Reciclare Chiajna (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/lucrator-depozit-iesire-marfa-reciclare-chiajna-f-m-290095"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Chiajna"],
+        "_version_": 1759882297266405383
+      },
+      {
+        "id": "cfeffbc6-b740-4036-8f1e-930dd8d304b2",
+        "job_title": ["Adjunct Manager Magazin Năvodari 2 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/adjunct-manager-magazin-navodari-2-f-m-286349"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Năvodari"],
+        "_version_": 1759882297266405384
+      },
+      {
+        "id": "49544dc7-04e9-4cea-88b0-b6552b4fc8bf",
+        "job_title": ["Vânzător București Dristor (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-dristor-f-m-287273"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297266405385
+      },
+      {
+        "id": "a0d1c273-69c9-43be-b406-512c2cc7628d",
+        "job_title": ["Vânzător Târgoviște Bd. I. C. Brătianu nr. 13 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-targoviste-bd.-i.-c.-bratianu-nr.-13-f-m-290223"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Târgoviște"],
+        "_version_": 1759882297266405386
+      },
+      {
+        "id": "d7451b7c-8cf4-440f-83d9-826c86c4d40c",
+        "job_title": ["Vânzător Târgoviște (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-targoviste-f-m-289880"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Târgoviște"],
+        "_version_": 1759882297266405387
+      },
+      {
+        "id": "bef08284-6e28-4f96-8f16-43bc4dc8f076",
+        "job_title": ["Adjunct Manager Magazin Tulcea 1 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/adjunct-manager-magazin-tulcea-1-f-m-284658"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Tulcea"],
+        "_version_": 1759882297267453952
+      },
+      {
+        "id": "813edf51-e5ad-404c-9320-819e7ed3e7cb",
+        "job_title": ["Vânzător Drobeta 1 Str. Tudor Vladimirescu (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-drobeta-1-str.-tudor-vladimirescu-f-m-290313"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Drobeta Turnu Severin"],
+        "_version_": 1759882297267453953
+      },
+      {
+        "id": "8c24a4ec-c43b-467d-b654-d77afa12fc5d",
+        "job_title": ["Vânzător Orșova Part Time (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-orsova-part-time-f-m-290202"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Orsova"],
+        "_version_": 1759882297267453954
+      },
+      {
+        "id": "a4e58835-c89e-4424-ba9e-e1b43d518ec7",
+        "job_title": ["Vânzător Arad 3 Str. Timișorii (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-arad-3-str.-timisorii-f-m-290297"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Arad"],
+        "_version_": 1759882297267453955
+      },
+      {
+        "id": "349c2a47-7814-457c-86bc-fea5fbe12077",
+        "job_title": ["Vânzător București Morarilor (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-morarilor-f-m-290038"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297267453956
+      },
+      {
+        "id": "c9cba12d-7690-47bd-9717-1bbc43420aef",
+        "job_title": ["Vânzător Brașov Str. Spicului nr. 5 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-brasov-str.-spicului-nr.-5-f-m-290068"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Brașov"],
+        "_version_": 1759882297267453957
+      },
+      {
+        "id": "66d70b2c-243b-4eee-8469-ef149b13ddf0",
+        "job_title": ["Vânzător Pucheni Sector 5 (f/m) 1"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-pucheni-sector-5-f-m-1-290054"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297267453958
+      },
+      {
+        "id": "308e5e60-b4a7-4920-990b-5ccc6f6247a0",
+        "job_title": ["Asistent Manager Magazin Voluntari 3 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/asistent-manager-magazin-voluntari-3-f-m-290050"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Voluntari"],
+        "_version_": 1759882297267453959
+      },
+      {
+        "id": "fa11fd26-5653-40ff-8b93-2b299f271263",
+        "job_title": ["Vânzător Alba Iulia 2 Str. Tudor Vladimirescu (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-alba-iulia-2-str.-tudor-vladimirescu-f-m-290071"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Alba Iulia"],
+        "_version_": 1759882297267453960
+      },
+      {
+        "id": "0cac375c-ea5a-4192-8c37-d2d5e545b6ed",
+        "job_title": ["Vânzător Mamaia Nord (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-mamaia-nord-f-m-289957"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Năvodari"],
+        "_version_": 1759882297267453961
+      },
+      {
+        "id": "c03da2f4-0d54-46ed-b9a2-dde693949898",
+        "job_title": ["Purchasing Data Base Responsable (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/purchasing-data-base-responsable-f-m-289894"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297267453962
+      },
+      {
+        "id": "498fcb1a-80dd-49e6-8eb8-61ef3e48a142",
+        "job_title": ["Manager Magazin Brașov (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/manager-magazin-brasov-f-m-289781"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Brașov"],
+        "_version_": 1759882297267453963
+      },
+      {
+        "id": "22e60064-8504-4139-a63a-7f6fee5a8456",
+        "job_title": ["Vânzător Apahida Str.Libertății Nr.31 (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-apahida-str.libertatii-nr.31-f-m-289403"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Apahida"],
+        "_version_": 1759882297268502528
+      },
+      {
+        "id": "5a7eb3f6-e416-4c1f-88a8-7e5a20ab975d",
+        "job_title": ["Vânzător București Gherghiței (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-bucuresti-gherghitei-f-m-289744"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["București"],
+        "_version_": 1759882297268502529
+      },
+      {
+        "id": "15ef5957-bbca-409c-b122-a6a89d0edd30",
+        "job_title": ["Vânzător Reșița 1 Str. Toamnei (f/m)"],
+        "job_link": [
+          "https://cariere.lidl.ro/jobs/vanzator-resita-1-str.-toamnei-f-m-289751"
+        ],
+        "company": ["lidl"],
+        "company_str": "lidl",
+        "country": ["România"],
+        "city": ["Resita"],
+        "_version_": 1759882297268502530
+      }
+    ]
+  }
+}
