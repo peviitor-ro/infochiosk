@@ -1,6 +1,7 @@
-const { Builder } = require('selenium-webdriver');
-const axios = require('axios');
+const { Builder, Capabilities } = require('selenium-webdriver');
 const chrome = require('chromedriver');
+const firefox = require('geckodriver');
+const axios = require('axios');
 
 async function openWebsitesFromAPI(browser) {
     const limit = 100;
@@ -19,14 +20,15 @@ async function openWebsitesFromAPI(browser) {
         for (let entry of entries) {
             let driver = await new Builder()
                 .forBrowser(browser)
-                .setChromeOptions(new chrome.Options().setChromeBinaryPath('/usr/bin/chromium-browser').headless().windowSize({ width: 1920, height: 1080 }))
+                .setChromeOptions(new Capabilities().setBrowserName('chrome').set('chromeOptions', { args: ['--headless', '--disable-gpu'], binary: '/usr/bin/chromium-browser' }))
                 .build();
-
+            console.log('Browser launched');
             await driver.get(entry.job_link[0]);
-
+            console.log('Website loaded');
             await driver.sleep(10000);
 
             await driver.quit();
+            console.log('Driver closed');
         }
 
         start += limit;
